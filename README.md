@@ -7,7 +7,4 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_am_nithin/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithinp7/) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nith-in7&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nith-in7&theme=radical&hide_border=false)<br/>
 
